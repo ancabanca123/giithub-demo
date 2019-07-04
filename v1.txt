@@ -6,3 +6,6 @@ another change
 i like editing the files here
 conflicting line
 I would like to do an interactive rebase
+This is a new commit
+i am adding a new line
+
