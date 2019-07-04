@@ -6,3 +6,4 @@ another change
 i like editing the files here
 conflicting line
 I would like to do an interactive rebase
+this commit is after branching
