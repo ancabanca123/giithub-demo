@@ -11,3 +11,4 @@ i am adding a new line
 i want to change the commit message
 raluca has commited some changes
 another change
+and this is the change from origin
