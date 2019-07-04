@@ -12,3 +12,4 @@ i want to change the commit message
 raluca has commited some changes
 another change
 and this is the change from origin
+what if i change this file
