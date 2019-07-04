@@ -5,4 +5,4 @@ I am editing this file in github
 another change
 i like editing the files here
 conflicting line
-
+I would like to do an interactive rebase
