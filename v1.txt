@@ -4,3 +4,4 @@ edit in vim sucks
 I am editing this file in github
 another change
 i like editing the files here
+conflicting line
